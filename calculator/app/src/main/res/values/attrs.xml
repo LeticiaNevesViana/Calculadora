@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+    <attr name="display" format="string"/>
+    <attr name="textResult" format="string"/>
+    <attr name="onError" format="boolean"/>
+
+    </declare-styleable>
+</resources>
